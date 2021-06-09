@@ -1,0 +1,121 @@
+{
+  "id": "2535863",
+  "name": "air_sensor",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1606639",
+      "name": "摄氏度",
+      "font_class": "sheshidu",
+      "unicode": "e767",
+      "unicode_decimal": 59239
+    },
+    {
+      "icon_id": "2520257",
+      "name": "光照度",
+      "font_class": "guangzhaodu",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "4478081",
+      "name": "摄氏度",
+      "font_class": "yidongduan-",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "6435297",
+      "name": "co2",
+      "font_class": "co",
+      "unicode": "ebaa",
+      "unicode_decimal": 60330
+    },
+    {
+      "icon_id": "6499134",
+      "name": "光照度",
+      "font_class": "guangzhaodu1",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "7156861",
+      "name": "PA",
+      "font_class": "PA",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "8006966",
+      "name": "摄氏度",
+      "font_class": "sheshidu1",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "8537329",
+      "name": "co2",
+      "font_class": "co1",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "9174241",
+      "name": "pa",
+      "font_class": "pa",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "10403963",
+      "name": "PPM",
+      "font_class": "PPM",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "13010621",
+      "name": "百分号",
+      "font_class": "baifenhao",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "16241768",
+      "name": "摄氏度",
+      "font_class": "sheshidu2",
+      "unicode": "eb97",
+      "unicode_decimal": 60311
+    },
+    {
+      "icon_id": "17276367",
+      "name": "co2 ",
+      "font_class": "co21",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "19159662",
+      "name": "光照度",
+      "font_class": "guangzhaodu2",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "20572236",
+      "name": "co2",
+      "font_class": "co2",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "21066852",
+      "name": "摄氏度",
+      "font_class": "sheshidu3",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    }
+  ]
+}

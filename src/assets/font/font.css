@@ -1,0 +1,9 @@
+@font-face {
+  font-family:font01;
+  src:url(DS-DIGIT.ttf);
+}
+
+.my-font{
+  font-family:font01;
+  color: yellow;
+}
